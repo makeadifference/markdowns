@@ -1,0 +1,106 @@
+# 链接
+## 行内式
+this is  [my blog](http://humdrfgry.top)
+
+
+## 参考式
+This is [an example][id] reference-style
+
+> fllow me on [facebook][facebook]
+ 
+
+
+[id]:www.humdrfgry.top
+[facebook]: www.google.com
+
+
+图片
+====
+### 行内式
+![image](file:///storage/emulated/0/Download/23957.png)
+
+### 参考式
+![test][imageurl]
+
+[imageurl]:file:///storage/////emulated/0/Download/23957.png
+
+
+
+
+``` c++
+#include<iostream>
+using namespace std;               
+int main()
+{
+    cout << "hello"<< endl;                 jdjjdjdjdjdjdndndbdbdbdbdndndndndnndndndndndndndndndndndbd 
+    return 0;
+}
+```
+
+>**我的博客**
+<http://humdrfgry.top>
+
+转移字符的输出
+-----------
+
+\\ \* \{ \}
+
+字体
+-------
+==高亮==
+<font color="red">红色字体</font>
+
+#####小总结
+参考式就是引用URL而已
+
+
+
+
+
+
+引用
+----
+> 1
+>> 2
+>>> 3
+
+>1
+>> 1
+>>> 2
+ 
+##### 引用内容嵌套
+> hello
+>> I am from China
+
+> nice to meet you
+>> nice to meet you to
+
+> 1.
+> 2.
+> *
+>
+
+
+##### 分割线
+第一段
+***
+第二段
+
+##### 表格
+| table | item1 | item2
+:-:|:-:|:-:
+|a | b | c
+|d | e | f
+
+
+
+##### 流程图
+
+ghg  
+jhj  
+ 
+
+
+
+
+
